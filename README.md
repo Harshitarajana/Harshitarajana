@@ -1,4 +1,4 @@
-<img src="" width="100%">
+<img src="hh.jpeg" width="100%">
 
 ### Hi, I'm Rajana Harshita 👋🏼👨🏻‍💻
 
