@@ -2,7 +2,7 @@
 
 ### Hi, I'm Rajana Harshita 👋🏼👨🏻‍💻
 
-Im a student at Vignan Institute Of Information Tchnology currently pursuing B.tech 3rd Year in Computer science and Engineering .Im a passionate web developer and competetive pogrammer
+Im a student at Vignan Institute Of Information Tchnology currently pursuing B.tech 3rd Year in Computer science and Engineering .Im a passionate web developer and competetive programmer
 
 [![dev.to badge](https://img.shields.io/badge/-RajanaHarshita-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/rajana-harshita-78164a237)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajanaharshita03@gmail.com)]
@@ -29,7 +29,7 @@ Im a student at Vignan Institute Of Information Tchnology currently pursuing B.t
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?style=flat&logo=bootstrap&logoColor=563D7C)
 ![JQuery](https://img.shields.io/badge/-JQuery-fff?style=flat&logo=jquery&logoColor=blue)
 ![Markdown](https://img.shields.io/badge/-Markdown-fff?style=flat&logo=markdown&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL%20Server-fff?style=flat&logo
+![SQL](https://img.shields.io/badge/-SQL%20Server-fff?style=flat&logo)
 ![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=git)
 
 <!-- wi*quL3fcV -->
