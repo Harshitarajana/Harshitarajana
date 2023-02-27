@@ -1,4 +1,4 @@
-<img src=""C:\Users\rajan\Downloads\WhatsApp Image 2023-02-25 at 4.05.26 PM.jpeg"" width="100%">
+<img src="" width="100%">
 
 ### Hi, I'm Rajana Harshita 👋🏼👨🏻‍💻
 
